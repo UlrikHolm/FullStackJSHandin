@@ -1,5 +1,4 @@
 # JS-handin-folder
-**Under hver uge ligger der en evt. README til den pågældende uge.**
 ###### Week 5
 [Se Week 5](week5)
 ###### Week 6
